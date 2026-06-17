@@ -24,3 +24,6 @@ id_rsa
 credentials.txt
 passwords.txt
 secrets.*
+
+#etc.
+bandit-template.md
